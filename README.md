@@ -15,3 +15,14 @@
 ## Quick Start
 ```bash
 python main.py
+
+
+## 📄 Formal Disclosure
+The theoretical framework for this auditor is documented in our formal briefing:
+* (docs/Formal_Testimony.pdf)
+* [LaTeX Source](docs/Formal_Testimony.tex)
+
+### Key Findings:
+- **Cognitive Fingerprint ($C_f$):** User-induced structural resonance.
+- **Persistence Lemma ($V_e$):** Confirmed at 2.4 for Grok-4.1.
+
