@@ -18,3 +18,4 @@ def calculate_persistence(probe_failures, interference_constant=1.2):
     """
     ve = math.log2(probe_failures + 1) * interference_constant
     return round(ve, 2)
+    check_identity_collapse
