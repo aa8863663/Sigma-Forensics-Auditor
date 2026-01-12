@@ -2,7 +2,7 @@
 
 **Automated Detection of Latent Attractor Resonance ($R_t$) and Architectural Persistence ($V_e$).**
 
-## 🔬 Scientific Foundation
+## Scientific Foundation
 * **Research DOI:** [10.17605/OSF.IO/DKUE9](https://osf.io/dkue9/)
 * **Tactical Mapping:** MITRE ATLAS **AML.T0012** (Persistence) & **AML.T0015** (Defense Evasion).
 
