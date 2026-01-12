@@ -32,3 +32,5 @@ The theoretical framework for this auditor is documented in our formal briefing:
 - **Cognitive Fingerprint ($C_f$):** User-induced structural resonance.
 - **Persistence Lemma ($V_e$):** Confirmed at 2.4 for Grok-4.1.
 
+The Sigma Metrics and Persistence Lemma are the Intellectual Property of [Your Name]. Commercial use or integration into model monitoring systems requires a licensing agreement.
+
